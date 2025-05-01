@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Currently working as an IT Technical Support Analyst in the energy sector.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀</font></font>
+- 🔭 Currently working as an IT Technical Support Analyst in the fotovoltaic energy sector.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀</font></font>
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓</font></font>Graduating in Computer Science at UniBH 
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> Former student at Kenzie Academy Brasil
 - 🤔 Open for collaboration on projects
